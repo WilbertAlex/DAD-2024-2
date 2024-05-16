@@ -4,7 +4,6 @@ import com.example.msauth.dto.AuthUserDto;
 import com.example.msauth.entity.AuthUser;
 import com.example.msauth.entity.TokenDto;
 
-import com.example.msauth.repository.AuthRepository;
 import com.example.msauth.repository.AuthUserRepository;
 import com.example.msauth.security.JwtProvider;
 import com.example.msauth.service.AuthUserService;
