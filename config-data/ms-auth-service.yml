@@ -10,8 +10,8 @@ spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/ms_auth
-    username: noe
-    password: 12345678
+    username: root
+    password:
 
 
 
