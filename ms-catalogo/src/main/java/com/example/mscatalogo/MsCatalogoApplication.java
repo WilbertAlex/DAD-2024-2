@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class MsCatalogoApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(MsCatalogoApplication.class, args);
     }
@@ -23,5 +22,4 @@ public class MsCatalogoApplication {
                 .license(new License().name("Apache 2.0").url("http://springdoc.org"))
         );
     }
-
 }
